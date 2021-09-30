@@ -1,5 +1,3 @@
-# Qingbiao-Song
-Config files for my GitHub profile.
 package test1;
 
 public class helloworld {
